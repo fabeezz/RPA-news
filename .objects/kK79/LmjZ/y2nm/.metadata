@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge OpenAI - Wikipedia",
+  "Type": "Screen",
+  "Id": "y2nmAuHim0e1ql6F6GGWqg",
+  "Reference": "RWDS_DTVm0qxQWfdTrZVng/y2nmAuHim0e1ql6F6GGWqg",
+  "ParentRef": "RWDS_DTVm0qxQWfdTrZVng/LmjZ8RgbREiAgVp586RM9A",
+  "Created": "2025-11-15T15:45:26.9312023Z",
+  "Updated": "2025-11-15T15:45:26.9312023Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

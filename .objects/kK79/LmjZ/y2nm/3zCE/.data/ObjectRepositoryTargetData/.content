@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wMVfTGE_YUqgN_4_E_JUnA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="stackoverflow.com/questions" CVScreenId="11b0da09-24f8-48a3-8b47-3b2bce91eafb" DesignTimeRectangle="745, 148, 18, 18" ElementType="Icon" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='search' tag='path' /&gt;" Guid="ace2c538-62b1-49cc-9dd8-f2dd4811e69a" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Newest Questions - Stack Overflow' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f6c2901c8caed566b47eea6b11969940.png" xmlns="">0c8W5Ct4B6EqHTNClXPoGuw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

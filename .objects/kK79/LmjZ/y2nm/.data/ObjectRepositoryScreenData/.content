@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="3cn4DE45nkyGxNLJaubYMQ" Reference="RWDS_DTVm0qxQWfdTrZVng/y2nmAuHim0e1ql6F6GGWqg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="287, 44, 1589, 964" BrowserType="Edge" ContentHash="S6ZluAK6tkKIO_WzJViZKA" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADsSURBVDhPpZMBDYQwDEVBBRIQgQKkIGEG5gALGMAGBjCAjO3yxv2lg+XChSU/t3bt7++/0OiEEOI/+Ladp1bwBK+ahfcE27bFYRiQE+d5TslxHHN8HEd6B9yXZYld16Wafd9PBTy0bRvXdU0ExH3fF4TkuAPIdM8rUGQfNAlS732RFzHIBKyCbH6VQwVQDBhk48JEHm3BNE1JhWLInXM5BgUBcvECc4ghgwDZxBBaL0BBAJDMFMjYlf3J0QjBtf5GwDRUaBX9Qxhs/RFuBADZ1mkmX80TqgTywOK6u8DnUCV5gtSsUyv4hbOraT5zNVPvKCo8XgAAAABJRU5ErkJggg==" Reference="RWDS_DTVm0qxQWfdTrZVng/y2nmAuHim0e1ql6F6GGWqg" Selector="&lt;html app='msedge.exe' title='OpenAI - Wikipedia' /&gt;" Url="https://stackoverflow.com/questions" Version="V2">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jC9WVz7e_EKe9HBTNynSNA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="youtube.com" CVScreenId="350c6187-d337-42fe-a3dd-31694da55e60" DesignTimeRectangle="486, 142, 484, 24" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' /&gt;" Guid="54d16794-4dcf-4efe-86db-e30d72de90b1" ScopeSelectorArgument="&lt;html app='msedge.exe' title='(130) YouTube' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8a4404c1372f1f3870dd1c4511b3f23e.png" xmlns="">0C1nZWaZRjEa0V5AJG4THDQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

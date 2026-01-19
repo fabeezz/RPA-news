@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zStSo8T2TUWvXsmsPl3WgQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="stackoverflow.com/search" DesignTimeRectangle="634, 419, 595, 34" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='s-post-summary--content-excerpt' tag='DIV' /&gt;" Guid="a4330771-a5a0-405d-b744-2ef9c43f39a3" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Posts matching &amp;apos;uipath&amp;apos; - Stack Overflow' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="fbc3e279ca14973ad04d69666222138b.png" xmlns="">0i8NmTGn5FUKKVViZarJeEg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

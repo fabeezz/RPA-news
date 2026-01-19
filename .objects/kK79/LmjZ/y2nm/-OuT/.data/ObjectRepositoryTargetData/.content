@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SMCqxtJ5GUWiXOhRn39ioA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="en.wikipedia.org/wiki/OpenAI" CVScreenId="8befc65b-f315-462e-add4-c0ebd0cc0f9d" CvTextArea="446, 483, 139, 18" CvTextArgument="artificial intelligence" CvType="Text" DesignTimeRectangle="447, 483, 138, 17" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='artificial intelligence' parentid='mw-content-text' tag='A' /&gt;" Guid="2ea865d1-6217-4be9-95f0-c05488d283f2" ScopeSelectorArgument="&lt;html app='msedge.exe' title='OpenAI - Wikipedia' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="67c70a6c4637dc33da1298ff2e4d4f29.png" xmlns="">0iW6tOziy0EenFJxObXlswQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

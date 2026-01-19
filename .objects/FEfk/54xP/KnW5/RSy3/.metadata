@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Digi_next_button",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "RSy3yT1IAUyxZqu0wydJfA",
+  "Reference": "RWDS_DTVm0qxQWfdTrZVng/RSy3yT1IAUyxZqu0wydJfA",
+  "ParentRef": "RWDS_DTVm0qxQWfdTrZVng/KnW5B0fG70WSjE3-ys_quA",
+  "Created": "2025-11-28T15:56:31.196772Z",
+  "Updated": "2025-12-01T13:57:08.4414701Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

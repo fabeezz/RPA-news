@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="AkoYaMUX2EWhJ3TXinUneA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="youtube.com" CVScreenId="3007dbb0-5a88-4d8c-af35-457e2c923107" DesignTimeRectangle="1025, 142, 24, 24" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;ytd-app&amp;gt;div&amp;gt;div&amp;gt;ytd-masthead&amp;gt;div&amp;gt;div&amp;gt;yt-searchbox&amp;gt;button&amp;gt;span&amp;gt;span&amp;gt;div' parentid='center' tag='DIV' /&gt;" Guid="f3e8ad80-44e3-4214-9504-c95b96d66035" ScopeSelectorArgument="&lt;html app='msedge.exe' title='(130) YouTube' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1228197887fd3d1861faecd8a0fca9d4.png" xmlns="">0SZrtO7rJkUKyTrzwzxN8Iw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

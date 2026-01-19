@@ -1,0 +1,14 @@
+﻿{
+  "Name": "artificial intelligence",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "-OuTGtWJkkKJbVb6O8IgEQ",
+  "Reference": "RWDS_DTVm0qxQWfdTrZVng/-OuTGtWJkkKJbVb6O8IgEQ",
+  "ParentRef": "RWDS_DTVm0qxQWfdTrZVng/y2nmAuHim0e1ql6F6GGWqg",
+  "Created": "2025-11-15T16:00:01.971623Z",
+  "Updated": "2025-11-15T16:00:01.971623Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

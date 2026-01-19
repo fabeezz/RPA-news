@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="41grQNWR6UymO8O2tep_pA" Reference="RWDS_DTVm0qxQWfdTrZVng/KnW5B0fG70WSjE3-ys_quA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="283, 66, 1589, 964" BrowserType="Edge" ContentHash="wzp8IeU4GkiDO4OIkRGjEQ" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHoSURBVDhPY9BhmPifEgw2wFJgxv+5HWf+p7tv+F8WteN/f8XR/1HmK/935B/8H2ezGsxPcVn331tt4X9DtilgtSA9cANc5eb9BwEznmlgweePPv3fvfbO/5sXX/+/feXN/5Lw7WDxVNf1/xtS94LVusnPQxhgLz77/9UzL/+XR+8AK9iz7s7/ssjt/7cuu/m/Nmn3/7VzrvwvDtv2f+mkC/8X9p77f+X0S7AeuAHI2IB18n8rQYjziMFwA2KtV4FNhoFfP/+AvWErMgtDEzIGG6DHPOn/u9ffwBpBTiwI2vL/1P7HYD7I2SA1bgrz/z+49f7/x3c/wBjFC8YcU8ChDMIgG0H+v3vtLdiA2W2n/ztIzP7/8Pb7/z++/f7/6M4HsLij5ByEASDsrjgfHGggp//98+//tXOv/veVHwHbdOPC6/+/f/39n+O7CRzAKAaAbAVFz9P7H///+/f//4b518BegLno3JFnYA3r5l5F4YNiBcRnAPMoAAxOAtv/k4KX9N4Aa3QT3QbmM/hKHP+PCwcrnPzvL3P8f6DsCbhYR8b5/+cPv/7vI3EEzGcIV7j6HxfesfDt/+VdL/+vn/oaqzwIMyRoPPqPDVf7PP/fHvvyf3fSq//Ti95gVQPCDFmG7/+Tj9//BwCke4/c0Ux0PwAAAABJRU5ErkJggg==" Reference="RWDS_DTVm0qxQWfdTrZVng/KnW5B0fG70WSjE3-ys_quA" Selector="&lt;html app='msedge.exe' title='Ultimele știri din România și externe, noutăți recente | Digi24' /&gt;" Url="https://www.digi24.ro/stiri?p=1" Version="V2">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+      <imageRef attrName="InformativeScreenshot" originalValue="b05a1185896d5fdd8ad8fc692d69e8ac.jpg" xmlns="">0-M2Vp8Vjdk6z-gGP7eZZ0g</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

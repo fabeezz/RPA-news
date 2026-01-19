@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="P0RZfs4q70iyFoZ6otki0g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="stackoverflow.com/questions" CVScreenId="11b0da09-24f8-48a3-8b47-3b2bce91eafb" DesignTimeRectangle="736, 141, 708, 32" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' type='text' /&gt;" Guid="866c1ccf-ca61-47ec-b36d-105f0ff304dd" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Newest Questions - Stack Overflow' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="061d63b4fa7145b8ba8193483cd741b4.png" xmlns="">0sPykRXWJtkG78WTiq3Bz7Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

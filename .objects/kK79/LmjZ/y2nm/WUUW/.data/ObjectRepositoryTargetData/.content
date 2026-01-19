@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1ijCeH9g1UGpWLLHIzOzOA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="stackoverflow.com/search" CVScreenId="3cd8cd31-8be5-4018-b64a-81c595762db4" DesignTimeRectangle="634, 394, 595, 22" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='question-summary' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' tag='H3' idx='4' /&gt;" Guid="2b08096b-db71-4162-be4a-aa1f09e0d5c5" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Posts matching &amp;apos;uipath&amp;apos; - Stack Overflow' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="c282941ed6e96bc4dce8913eec5ec1ab.png" xmlns="">0eyh0ulzb60STxKR9AMRg2Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="T5wXLWd8HkO-mGBKJCUNFg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="stackoverflow.com/search" CVScreenId="93e5a9d5-fd03-4ea4-b9d9-fcd6f953be06" CvTextArea="656, 396, 129, 20" CvTextArgument="Uipath string null" CvType="Text" DesignTimeRectangle="656, 395, 129, 20" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='question-summary-36639533' tag='A' /&gt;" Guid="94d47b33-b358-4d6d-adfb-174d8aadfe43" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Posts matching &amp;apos;uipath&amp;apos; - Stack Overflow' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="494, 380, 751, 124" FuzzySelectorArgument="&lt;webctrl id='question-summary-36639533' tag='DIV' type='' class='s-post-summary    js-post-summary' aaname='                           ' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='9&amp;#xA;votes&amp;#xA;8&amp;#xA;answers&amp;#xA;22k&amp;#xA;views&amp;#xA; Uipath string null&amp;#xA;Does anyone know how to check for an unassigned string in uipath? Uipath seems to crash when an if statement looks for a null string. Not sure how to handle that. … String.empty doesn&amp;apos;t seem to work, and if the string is unassigned uipath stops logging and nothing happens. …&amp;#xA;uipath&amp;#xA;Dan Atkins&amp;#xA;378&amp;#xA;asked Apr 15, 2016 at 6:15' /&gt;" Guid="3b68fa7d-e6f9-47b9-a8b8-b718ca1776f8" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="24276a5cf56f9bfba7643a0570c8ac8c.png" xmlns="">03Aqi6F6B0U2DpuZD-77a5w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

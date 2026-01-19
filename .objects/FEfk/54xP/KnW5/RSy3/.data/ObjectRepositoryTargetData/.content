@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LkfPmNvVvEy2D0HxbFJHeA" Reference="RWDS_DTVm0qxQWfdTrZVng/RSy3yT1IAUyxZqu0wydJfA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="digi24.ro/stiri" DesignTimeRectangle="927, 766, 33, 33" ElementVisibilityArgument="Interactive" FullSelectorArgument="[string.Format(&quot;&lt;webctrl aaname='  ' href='/stiri?p={0}' tag='A' /&gt;&quot;, Page_number)]" Guid="d5598530-9570-497d-9282-913d0f6125fe" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Stiri - stiri de ultima ora interne si externe, breaking news, stiri online, stirile zilei, noutati din toate domeniile | Digi24i | Pagina 1' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="195b51084d9f29961e8df9e927e62e05.png" xmlns="">0Qjt9PvmZDECr54AoQUehtA</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData IsString="False" Name="Page_number" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

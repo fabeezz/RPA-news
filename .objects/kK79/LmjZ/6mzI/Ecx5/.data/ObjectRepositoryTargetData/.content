@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="OeeMyjKhW0qYkDeuTY37ig" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="stackoverflow.com/search" DesignTimeRectangle="12, 128, 1897, 2817" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='BODY' /&gt;" Guid="cd0078ff-2205-4279-a6e7-cac9520e7e15" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Newest posts matching &amp;apos;uipath&amp;apos; - Stack Overflow' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c9d75b4bba47e5bdcaf3b081a8f9dc6a.png" xmlns="">05SauZ-G9wkq7eY8fw-SVOA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
